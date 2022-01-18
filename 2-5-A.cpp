@@ -16,7 +16,7 @@ int main()
             n[i] = n[9];
             n[9] = temp;
         }
-        printf("%d ", n[i]);
+        printf("%d\n", n[i]);
     }
     return 0;
 }
